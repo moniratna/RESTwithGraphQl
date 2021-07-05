@@ -11,6 +11,7 @@ const authors = [
 	{ id: 2, name: 'J. R. R. Tolkien' },
 	{ id: 3, name: 'Brent Weeks' }
 ]
+const a;
 
 const books = [
 	{ id: 1, name: 'Harry Potter and the Chamber of Secrets', authorId: 1 },
